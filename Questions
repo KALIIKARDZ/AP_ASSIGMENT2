@@ -1,0 +1,20 @@
+Questions:
+a) Write a C# program that uses a class called Business that accepts the buying price, transport cost and
+selling price of an item and then computes the profit or loss made on the item. When giving the output, the
+program should be specific if it was a profit or loss that was made. The class should have a constructor that
+initializes buying price, selling price and transport cost to specified values and a default constructor that
+initializes these values to 0
+
+b) Using arrays of objects, write a C# program that can be used by the University Library to do the following:
+i) Allow the book’s code and name to be entered and stored for all the books in the library.
+ii) Allow the Librarian to display on the screen all the books codes and names in the Library
+
+c) In a given bank, there are two types of bank accounts, namely Saving and Current. In both accounts, details
+of account number, holder name and balance must be kept. Both accounts have operations to check balance
+and to deposit. The withdraw operation is in both accounts but the conditions are different. In savings
+account, the withdrawal is only possible if balance is more than the amount being withdrawn. For current
+account, there is overdraft limit set for each client. Customers can withdraw beyond their balance but
+cannot go beyond the overdraft. Only Savings account earns interest on balance at a rate determined by the
+bank at the end of calendar year.
+i) Draw class diagrams to represent the above scenario.
+ii) Use C# programming language to implement the solution to the scenario
